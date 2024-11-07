@@ -1,0 +1,6 @@
+[book]
+authors = ["Jonathan Woollett-Light", "Michael Royal "]
+language = "en"
+multilingual = false
+src = "src"
+title = "Neuromorphic Computing Guide"
